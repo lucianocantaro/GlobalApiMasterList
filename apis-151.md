@@ -5,5 +5,5 @@
 | Category | Utility |
 | Region | italy |
 | URL | [ssdd](ssdd) |
-| Status | dddd |
+| Status | Active |
 | Self Hostable |  |
